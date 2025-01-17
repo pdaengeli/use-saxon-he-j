@@ -8,6 +8,16 @@ Use Saxon is a GitHub Action that sets up the Saxon-HE processor.
 
 ## Example Usage
 
-TBD
+```
+    - name: Foobar transform (XSLT)
+      uses: pdaengeli/use-saxon-he-j@12.5
+      with:
+        args: -s:foo.xml -xsl:bar.xsl -o:baz.xml
+
+```
 
 ---
+
+# License
+
+The open-source Saxon-HE product is offered under the [Mozilla Public License version 2.0](https://www.mozilla.org/MPL/2.0/).
