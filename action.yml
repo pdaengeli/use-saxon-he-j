@@ -1,5 +1,5 @@
 # action.yml
-name: 'Saxon'
+name: 'Use Saxon'
 description: 'Runs Saxon-HE'
 inputs:
   args:
