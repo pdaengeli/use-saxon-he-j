@@ -5,6 +5,12 @@ The format is roughly based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ## Unreleased
 
+--
+
+## [12.6] - 2025-05-02
+### Added
+- Saxon HE 12.6
+
 ## [12.5] - 2025-01-17
 ### Added
 - Saxon HE 12.5
