@@ -7,6 +7,10 @@ The format is roughly based on [Keep a Changelog](https://keepachangelog.com/en/
 
 --
 
+## [12.8] - 2025-07-04
+### Added
+- Saxon HE 12.8
+
 ## [11.7] - 2025-07-04
 ### Added
 - Saxon HE 11.7

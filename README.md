@@ -10,7 +10,7 @@ Use Saxon is a GitHub Action that sets up the Saxon-HE processor.
 
 ```
     - name: Foobar transform (XSLT)
-      uses: pdaengeli/use-saxon-he-j@12.7
+      uses: pdaengeli/use-saxon-he-j@12.8
       with:
         args: -s:foo.xml -xsl:bar.xsl -o:baz.xml
 
