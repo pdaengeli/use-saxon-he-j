@@ -1,8 +1,8 @@
 FROM eclipse-temurin:11-jre
 
 ARG SAXON_HE_REPOSITORY=Saxonica/Saxon-HE/releases
-ARG SAXON_HE_VERSION=SaxonHE12-8
-ARG SAXON_HE_TAG=SaxonHE-12-8  # temporarily needed for deviating tags of 11-7 and 12-8
+ARG SAXON_HE_VERSION=SaxonHE11-7
+ARG SAXON_HE_TAG=SaxonHE-11-7  # temporarily needed for deviating tags of 11-7 and 12-8
 
 RUN apt-get update && apt-get install -y unzip jq
 
