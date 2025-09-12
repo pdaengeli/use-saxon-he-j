@@ -7,6 +7,10 @@ The format is roughly based on [Keep a Changelog](https://keepachangelog.com/en/
 
 --
 
+## [12.9] - 2025-09-12
+### Added
+- Saxon HE 12.9
+
 ## [12.8.fix] - 2025-07-04
 ### Added
 - Saxon HE 12.8 (NB suffix `.fix` required for Marketplace re-publication)
