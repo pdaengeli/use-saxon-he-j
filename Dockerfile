@@ -1,4 +1,4 @@
-FROM eclipse-temurin:11-jre
+FROM eclipse-temurin:17-jre
 
 ARG SAXON_HE_REPOSITORY=Saxonica/Saxon-HE/releases
 ARG SAXON_HE_VERSION=SaxonHE13-0
