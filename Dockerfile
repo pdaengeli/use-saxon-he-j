@@ -1,7 +1,7 @@
 FROM eclipse-temurin:11-jre
 
 ARG SAXON_HE_REPOSITORY=Saxonica/Saxon-HE/releases
-ARG SAXON_HE_VERSION=SaxonHE12-9
+ARG SAXON_HE_VERSION=SaxonHE13-0
 
 RUN apt-get update && apt-get install -y unzip jq
 
